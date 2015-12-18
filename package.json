@@ -1,0 +1,14 @@
+{
+  "name": "riot-auto-insert-parent",
+  "main": "./lib/riot-auto-insert-parent",
+  "version": "0.0.1",
+  "description": "riot-auto-insert-parent",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/fengzilong/riot-auto-insert-parent",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+  }
+}

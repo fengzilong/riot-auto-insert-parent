@@ -1,0 +1,1 @@
+module.exports = require( './lib/riot-auto-insert-parent' );
